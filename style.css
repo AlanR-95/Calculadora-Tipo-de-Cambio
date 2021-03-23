@@ -107,5 +107,11 @@ select:focus, input:focus, button:focus{
     .currency input {
         width: 200px;
     }
+    h1{
+        font-size: 22px;
+    }
+    #main-text{
+        font-size: 10px;
+    }
 }
 
